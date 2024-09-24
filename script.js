@@ -1,7 +1,7 @@
 // Wait for the DOM to be fully loaded
   window.addEventListener('DOMContentLoaded', () => {
     const attribution = document.getElementById('attribution');
-    const credits = document.getElementById('credits');
+    const credits = document.getElementById('site-credits');
 
     // Toggle the visibility of the credits on click
     attribution.addEventListener('click', () => {
