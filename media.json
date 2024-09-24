@@ -3,12 +3,21 @@
   "videoRoot": "videos/",
   "media": [
     {
+      "video": "video-eagle.mp4",
+      "width": 1024,
+      "height": 1024,
+      "opacity": 0.5,
+      "rgbShiftIntensity": 0,
+      "glowIntensity": 2,
+      "glitchAmount": 0
+    },
+    {
       "video": "video-astronaut.mp4",
       "width": 1024,
       "height": 1024,
-      "opacity": 0.8,
-      "rgbShiftIntensity": 0.02,
-      "glowIntensity": 1.5,
+      "opacity": 0.5,
+      "rgbShiftIntensity": 0,
+      "glowIntensity": 2,
       "glitchAmount": 0
     },
     {
@@ -18,7 +27,7 @@
       "opacity": 0.5,
       "rgbShiftIntensity": 0,
       "glowIntensity": 2,
-      "glitchAmount": 0.02
+      "glitchAmount": 0
     }
   ]
 }
